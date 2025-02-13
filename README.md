@@ -45,7 +45,6 @@ DeepSeek Code Companion is an interactive AI-powered coding assistant built usin
 The project includes custom styling for a sleek and consistent dark theme in both the main interface and sidebar components.
 
 ### 🏗️ Project Structure
-    ```bash
          deepseek-code-companion/
          │
          ├── app.py                # Main Streamlit application file  
