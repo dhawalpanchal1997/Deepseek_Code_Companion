@@ -34,3 +34,30 @@ DeepSeek Code Companion is an interactive AI-powered coding assistant built usin
    ```bash
    git clone https://github.com/your-username/deepseek-code-companion.git
    cd deepseek-code-companion
+2. Install the required packages:
+   ```bash
+    pip install -r requirements.txt
+3. Run the Streamlit app:
+   ```bash
+   streamlit run app.py
+
+## 🎨 Custom CSS Styling
+The project includes custom styling for a sleek and consistent dark theme in both the main interface and sidebar components.
+
+### 🏗️ Project Structure
+    ```bash
+         deepseek-code-companion/
+         │
+         ├── app.py                # Main Streamlit application file  
+         ├── requirements.txt      # Dependencies  
+         └── README.md             # Project documentation  
+ 
+## 🛡️ System Prompt Configuration
+The system prompt is designed to ensure responses are always:
+
+- Concise and to the point
+- Correct with code solutions
+- Helpful for debugging and learning
+
+## 🌟 Acknowledgments
+Built with ❤️ using Ollama and LangChain for an innovative coding experience. Special thanks to the open-source community for their contributions.
